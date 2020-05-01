@@ -1,1 +1,2 @@
 mkdir is dic
+hello world

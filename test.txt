@@ -1,2 +1,3 @@
 mkdir is dic
 hello world
+welcome to house
